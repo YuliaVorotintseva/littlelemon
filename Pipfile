@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pymysql = "*"
 django = "~=5.2.0"
+djangorestframework = "*"
 
 [dev-packages]
 
